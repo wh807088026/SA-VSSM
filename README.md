@@ -1,4 +1,4 @@
-<img width="800" alt="fig4" src="https://github.com/user-attachments/assets/e898604e-04b0-4cf7-ab9d-0db7c88a5d32" />
+<img width="800" alt="fig4" src="img/fig4.png" />
 
 # SA-VSSM
 
